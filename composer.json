@@ -1,8 +1,8 @@
 {
-    "name": "sqits/laravel-userstamps",
+    "name": "findyouractivity/laravel-userstamps",
     "description": "Package to add created_by, updated_by and deleted_by to models.",
     "keywords": ["laravel", "created", "updated", "deleted", "userstamps"],
-    "homepage": "https://github.com/sqits/laravel-userstamps",
+    "homepage": "https://github.com/findyouractivity/laravel-userstamps",
     "license": "MIT",
     "authors": [
         {
