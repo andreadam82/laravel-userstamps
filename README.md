@@ -3,11 +3,9 @@
 Provides an Eloquent trait to automatically maintain the created_by, updated_by, and deleted_by (when using softDeletes)
 on your models by the currently logged in user.
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/sqits/laravel-userstamps.svg?style=flat-square)](https://packagist.org/packages/sqits/laravel-userstamps)
-[![Build Status](https://img.shields.io/travis/sqits/laravel-userstamps/master.svg?style=flat-square)](https://travis-ci.org/sqits/laravel-userstamps)
-[![Quality Score](https://img.shields.io/scrutinizer/g/sqits/laravel-userstamps.svg?style=flat-square)](https://scrutinizer-ci.com/g/sqits/laravel-userstamps)
-[![StyleCI](https://github.styleci.io/repos/180816659/shield)](https://styleci.io/repos/180816659)
-[![Total Downloads](https://img.shields.io/packagist/dt/sqits/laravel-userstamps.svg?style=flat-square)](https://packagist.org/packages/sqits/laravel-userstamps)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/findyouractivity/laravel-userstamps.svg?style=flat-square)](https://packagist.org/packages/findyouractivity/laravel-userstamps)
+[![StyleCI](https://github.styleci.io/repos/472876246/shield)](https://styleci.io/repos/472876246)
+[![Total Downloads](https://img.shields.io/packagist/dt/findyouractivity/laravel-userstamps.svg?style=flat-square)](https://packagist.org/packages/findyouractivity/laravel-userstamps)
 
 ## Installation and usage
 
