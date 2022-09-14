@@ -12,7 +12,7 @@ on your models by the currently logged in user.
 This package requires PHP 7.2 and Laravel 5.6 or higher. Install the package by running the following command in your console;
 
 ``` bash
-composer require findyouractivity/laravel-userstamps
+composer require andreadam82/laravel-userstamps
 ```
 
 You can publish the config file with:
