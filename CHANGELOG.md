@@ -2,6 +2,12 @@
 
 All notable changes to laravel-userstamps will be documented in this file.
 
+### 0.0.11
+- Added support for sqlsrv driver
+
+### 0.0.10
+- Updated the package to use in Laravel 9
+
 ### 0.0.8
 - [Issue #7](https://github.com/sqits/laravel-userstamps/issues/7)
 Added support for column type `uuid`
