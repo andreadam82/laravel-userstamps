@@ -1,8 +1,8 @@
 {
-    "name": "findyouractivity/laravel-userstamps",
+    "name": "andreadam82/laravel-userstamps",
     "description": "Package to add created_by, updated_by and deleted_by to models.",
     "keywords": ["laravel", "created", "updated", "deleted", "userstamps"],
-    "homepage": "https://github.com/findyouractivity/laravel-userstamps",
+    "homepage": "https://github.com/andreadam82/laravel-userstamps",
     "license": "MIT",
     "authors": [
         {
@@ -21,7 +21,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/findyouractivity/laravel-userstamps"
+            "url": "https://github.com/andreadam82/laravel-userstamps"
         }
     ],
     "require": {
