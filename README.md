@@ -18,7 +18,7 @@ composer require andreadam82/laravel-userstamps
 You can publish the config file with:
 
 ``` bash
-php artisan vendor:publish --provider="Sqits\UserStamps\UserStampsServiceProvider" --tag="config"
+php artisan vendor:publish --provider="Andreadam82\UserStamps\UserStampsServiceProvider" --tag="config"
 ```
 
 This is the contents of the published config file:
